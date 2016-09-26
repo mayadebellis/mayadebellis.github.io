@@ -5,7 +5,7 @@ body {
         font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
         font-size: 16pt;
         color: white;
-        background-color: #D6D0CC;
+        background-color: #AFB3B6;
 }
 
 h1 {
@@ -20,4 +20,12 @@ a {
 
 a:hover {
         color: #CB5E15;
+}
+
+h1.a {
+        color: #CB5E15;    
+}
+
+h1.a:hover{
+        color: white;
 }
