@@ -8,15 +8,14 @@ body {
         background-color: #AFB3B6;
 }
 
-#header {
-        color: #CB5E15;
-}
 
 h1 {
         font-size: 40pt;
+        color: #CB5E15;
 }
 h4 {
         font-size: 20pt;
+        color: #CB5E15;
 }
 
 a {
