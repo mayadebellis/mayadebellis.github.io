@@ -41,13 +41,13 @@ ul {
         margin: 0;
         padding: 0;
         overflow: hidden;
-        vertical-align: text-bottom;
 }
 
 li a {
         float:left;
         display: block;
         text-align: center;
+        vertical-align: text-bottom;
         padding: 14px 16px;
         text-decoration: none;
 }
