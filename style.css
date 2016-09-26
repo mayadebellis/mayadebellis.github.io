@@ -3,7 +3,7 @@
 body {
         
         font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-        font-size: 16pt;
+        font-size: 14pt;
         color: white;
         background-color: #AFB3B6;
 }
@@ -24,22 +24,13 @@ a:hover {
         color: #CB5E15;
 }
 
-/* fix this it no work */
-h1.a {
-        color: #CB5E15;    
-}
-
-h1.a:hover{
-        color: white;
-}
-
-
 h4 {
         color: #CB5E15;
+        font-size: 20pt;
 }
 
 .position {
         font-weight: bold;
-        font-size: 19pt;
+        font-size: 20pt;
 
 }
