@@ -37,7 +37,6 @@ h4 {
 
 ul {
         list-style-type: none;
-        position: fixed;
         border: 1px solid #e7e7e7;
         margin: 0;
         padding: 0;
@@ -45,9 +44,10 @@ ul {
 }
 
 li a {
-        padding: 14px 16px;
         float:left;
         display: block;
         text-align: center;
+        vertical-align: middle
+        padding: 14px 16px;
         text-decoration: none;
 }
