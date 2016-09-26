@@ -5,4 +5,14 @@ body {
         font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
         font-size: 16pt;
         color: #52667a;
+        background-color: #d9e6f2;
+}
+
+a {
+        color: #52667a;
+        text-decoration: none;
+}
+
+a:hover {
+        color: #336699;
 }
