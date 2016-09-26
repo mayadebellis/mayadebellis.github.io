@@ -45,6 +45,7 @@ ul {
 }
 
 li a {
+        padding: 14px 16px;
         float:left;
         display: block;
         text-align: center;
