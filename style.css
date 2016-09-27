@@ -88,6 +88,6 @@ li a {
         margin-end: 0;
         padding-start: 40px;
         border: none;
-        list-style-type: circle;
+        list-style-type: '-';
 
 }
