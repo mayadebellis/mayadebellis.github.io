@@ -28,7 +28,7 @@ img {
 }
 
 .circle {
-        width: auto;
+        border-radius: 50%;
 }
 
 h1 {
