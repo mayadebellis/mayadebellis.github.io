@@ -1,4 +1,4 @@
-/* Style sheet for mayadebellis.github.io */
+/* Style sheet for mayadebellis.github.io CB5E15 */
 
 body {
         
@@ -14,6 +14,7 @@ body {
 }
 
 .image h1 {
+        color: white;
         position: absolute;
         top: 0;
         left: 0;
