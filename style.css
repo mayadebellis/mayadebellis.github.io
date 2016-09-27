@@ -29,11 +29,11 @@ img {
 
 h1 {
         font-size: 40pt;
-        color: #145A32;
+        color: #0f3d0f;
 }
 h4 {
         font-size: 20pt;
-        color: #145A32;
+        color: #0f3d0f;
 }
 
 a {
@@ -44,14 +44,14 @@ a {
 }
 
 a:hover {
-        color: #145A32;
+        color: #0f3d0f;
 }
 
 
 .position {
         font-weight: bold;
         font-size: 20pt;
-        color: #A9DFBF;
+        color: #1f7a1f;
 
 }
 
