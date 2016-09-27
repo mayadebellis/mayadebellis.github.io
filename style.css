@@ -1,5 +1,4 @@
 /* Style sheet for mayadebellis.github.io */
-/* orange: #CB5E15 */;
 
 body {
         
@@ -15,7 +14,6 @@ body {
 }
 
 .image h1 {
-        color: white;
         position: absolute;
         top: 0;
         left: 0;
@@ -30,11 +28,11 @@ img {
 
 h1 {
         font-size: 40pt;
-        color: #1E8449;
+        color: #CB5E15;
 }
 h4 {
         font-size: 20pt;
-        color: #1E8449;
+        color: #CB5E15;
 }
 
 a {
@@ -45,7 +43,7 @@ a {
 }
 
 a:hover {
-        color: #1E8449;
+        color: #CB5E15;
 }
 
 
