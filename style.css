@@ -28,6 +28,8 @@ img {
 }
 
 .circle {
+        width: auto;
+        height: auto;
         border-radius: 50%;
 }
 
